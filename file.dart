@@ -1,7 +1,7 @@
 void main () {
 
-var = "Hey Sanan here";
-
-print var;
+var (doi) = "Hey Sanan here";
+var (dou) = "googoo gaagaa"
+print doi;
 
 }
